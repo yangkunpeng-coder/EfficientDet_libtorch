@@ -19,3 +19,6 @@ The libtorch C++ implementation of the object detection model Efficientdet
 * [pytorch_C++_API](https://pytorch.org/cppdocs/)
 * [opencv](https://docs.opencv.org/4.5.2/)
 
+## paper
+* [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
+
