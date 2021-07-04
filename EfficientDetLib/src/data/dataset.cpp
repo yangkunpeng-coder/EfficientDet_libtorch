@@ -1,6 +1,6 @@
 ﻿#include "dataset.h"
 
-namespace slalgorithm {
+namespace dldetection  {
 DataSet::DataSet()
 {
 

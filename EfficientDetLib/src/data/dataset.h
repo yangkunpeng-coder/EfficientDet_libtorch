@@ -3,7 +3,7 @@
 
 #include "torch/data/datasets.h"
 
-namespace slalgorithm {
+namespace dldetection  {
 
 class DataSet
 {
