@@ -24,7 +24,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    src/dldetectionlib.cpp \
     src/model/efficientnet/mbconvblock.cpp \
     src/model/efficientnet/efficientnet.cpp \
     src/model/common/conv2dstaticsamepadding.cpp \
@@ -41,7 +40,6 @@ SOURCES += \
     src/model/efficientdet/efficientnetwrapper.cpp
 
 HEADERS += \
-    src/dldetectionlib.h \
     src/model/efficientnet/mbconvblock.h \
     src/model/efficientnet/efficientnet.h \
     src/model/efficientnet/efficientnetconfig.h \
